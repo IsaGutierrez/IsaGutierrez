@@ -1,6 +1,6 @@
 ### Hey there! <3
 
-I'm Isa, a Junior Full-Stack Developer and Localization Project Manager.✨
+I'm Isa, a Junior Full-Stack Developer and Localization Specialist.✨
 
 Feel free to roam around my profile and repositories!
 
